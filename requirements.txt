@@ -1,0 +1,6 @@
+# Testing and code checking
+python-ta~=2.4.2
+
+# Graphics or data visualization
+
+pygame == 2.3.0
